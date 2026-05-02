@@ -1,5 +1,5 @@
 {
-  "newsUrl": "https://fanzik.csamp.ru/news.json",
+  "newsUrl": "https://fanzikcloud.github.io/jsons/news.json",
   "servers": [
     {
       "id": "aura-1",
