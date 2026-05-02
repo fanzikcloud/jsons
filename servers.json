@@ -11,8 +11,8 @@
     {
       "id": "aura-2",
       "name": "TEST 1",
-      "ip": "listing-winking.gl.at.ply.gg",
-      "port": 10133,
+      "ip": "none",
+      "port": none,
       "description": "Test Server"
     }
   ]
