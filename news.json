@@ -1,0 +1,21 @@
+{
+  "updated": "2026-05-02T07:00:00Z",
+  "status": "Последняя версия игры загружена. Приятной игры!",
+  "news": [
+    {
+      "id": 1,
+      "title": "Лаунчер",
+      "subtitle": "Разработали лаунчер для запуска игры!",
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=1200&q=80",
+      "url": "none",
+      "date": "2026-05-01"
+    }
+  ],
+  "promo": {
+    "kicker": "СОБЫТИЕ",
+    "title": "Двойной опыт на выходных",
+    "subtitle": "Сб-Вс — x2 RP за каждый дрифт-заезд",
+    "cta": "Подробнее",
+    "url": "https://auradrift.ru/events/double-rp"
+  }
+}
