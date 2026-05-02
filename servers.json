@@ -1,0 +1,12 @@
+{
+  "newsUrl": "https://fanzik.csamp.ru/news.json",
+  "servers": [
+    {
+      "id": "aura-1",
+      "name": "AURA 1",
+      "ip": "188.127.241.74",
+      "port": 2071,
+      "description": "Сервер #1"
+    }
+  ]
+}
