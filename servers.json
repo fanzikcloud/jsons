@@ -12,7 +12,7 @@
       "id": "aura-2",
       "name": "TEST 1",
       "ip": "none",
-      "port": none,
+      "port": 1111,
       "description": "Test Server"
     }
   ]
