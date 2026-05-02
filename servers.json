@@ -7,6 +7,13 @@
       "ip": "188.127.241.74",
       "port": 2071,
       "description": "Сервер #1"
+    },
+    {
+      "id": "aura-1",
+      "name": "TEST 1",
+      "ip": "udp.cloudpub.ru",
+      "port": 30290,
+      "description": "Сервер #1"
     }
   ]
 }
